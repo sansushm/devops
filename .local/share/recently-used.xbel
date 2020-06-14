@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/edureka/eclipse-jee-photon-M6-linux-gtk-x86_64.tar.gz" added="2018-05-22T12:47:11Z" modified="2018-05-22T12:47:11Z" visited="2018-05-22T12:47:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-05-22T12:47:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edureka/Downloads" added="2018-05-22T12:47:22Z" modified="2018-05-22T12:47:22Z" visited="2018-05-22T12:47:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2018-05-22T12:47:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edureka/eclipse-workspace" added="2018-05-22T13:00:41Z" modified="2018-05-22T13:00:41Z" visited="2018-05-22T13:00:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse IDE" exec="&apos;Eclipse IDE %u&apos;" modified="2018-05-22T13:00:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edureka/Downloads/eclipse/icon.xpm" added="2018-05-22T13:12:27Z" modified="2018-05-22T15:16:18Z" visited="2018-05-22T13:12:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xpixmap"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2018-05-22T13:22:32Z" count="2"/>
+          <bookmark:application name="nautilus-desktop" exec="&apos;nautilus-desktop %u&apos;" modified="2018-05-22T15:16:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edureka/Desktop" added="2018-05-22T13:22:48Z" modified="2018-05-22T13:22:48Z" visited="2018-05-22T13:22:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2018-05-22T13:22:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edureka/tomcat.sh" added="2018-05-22T13:41:03Z" modified="2018-05-22T13:49:09Z" visited="2018-05-22T13:41:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-05-22T13:49:09Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edureka/Untitled.jar" added="2018-05-22T14:22:57Z" modified="2018-05-22T14:22:57Z" visited="2018-05-22T14:22:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse IDE" exec="&apos;Eclipse IDE %u&apos;" modified="2018-05-22T14:22:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edureka/Downloads/addressbook.war" added="2018-05-22T15:27:37Z" modified="2018-05-22T15:27:37Z" visited="2018-05-22T15:27:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-05-22T15:27:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
